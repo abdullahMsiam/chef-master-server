@@ -4,41 +4,335 @@
         "unique_id": "123456",
         "photo_url": "https://img.freepik.com/free-photo/chef-with-thumb-up-white-background_1368-2842.jpg?w=740&t=st=1689240406~exp=1689241006~hmac=595692e56429cb7cd520ed39089b17faff40114babe54a8045ed5e9706cb4b8a",
         "experience": "10 years",
-        "number": 1
+        "number": 3,
+        "bio": "Chef John Smith is a seasoned culinary artist with over 15 years of experience. With a passion for creating exceptional flavors and unforgettable dining experiences, Chef John has honed his skills in renowned kitchens worldwide. His innovative approach to cuisine merges traditional techniques with contemporary influences, resulting in visually stunning and delectable dishes. Chef John's commitment to sourcing the finest local ingredients ensures the highest quality in every plate. Having worked in Michelin-starred establishments and collaborated with international culinary experts, Chef John possesses a diverse range of culinary expertise, from classical French to cutting-edge fusion. His relentless pursuit of culinary excellence has made him a master in his craft, delivering extraordinary culinary journeys to every guest fortunate enough to savor his creations.",
+        "recipe": [
+            {
+                "name": "Lemon Garlic Shrimp Pasta",
+                "ingredients": [
+                    "Shrimp",
+                    "Pasta",
+                    "Garlic",
+                    "Lemon juice",
+                    "Butter",
+                    "Olive oil",
+                    "Salt",
+                    "Pepper",
+                    "Parsley"
+                ],
+                "method": "Cook pasta, sauté shrimp with garlic in olive oil and butter, add lemon juice, toss with cooked pasta, season with salt, pepper, and parsley.",
+                "rating": 4.6
+            },
+            {
+                "name": "Caprese Salad",
+                "ingredients": [
+                    "Tomatoes",
+                    "Mozzarella cheese",
+                    "Basil leaves",
+                    "Balsamic glaze",
+                    "Olive oil",
+                    "Salt",
+                    "Pepper"
+                ],
+                "method": "Slice tomatoes and mozzarella, layer them with basil leaves, drizzle with olive oil and balsamic glaze, season with salt and pepper.",
+                "rating": 4.8
+            },
+            {
+                "name": "Chicken Stir-Fry",
+                "ingredients": [
+                    "Chicken breast",
+                    "Bell peppers",
+                    "Broccoli",
+                    "Soy sauce",
+                    "Garlic",
+                    "Ginger",
+                    "Sesame oil",
+                    "Cornstarch",
+                    "Vegetable oil"
+                ],
+                "method": "Sauté chicken with garlic and ginger, add vegetables, stir-fry until tender-crisp, mix soy sauce, sesame oil, and cornstarch, pour over the chicken and veggies, cook until the sauce thickens.",
+                "rating": 3.6
+            }
+        ]
     },
     {
         "chef_name": "Emily Johnson",
         "unique_id": "234567",
         "photo_url": "https://img.freepik.com/free-photo/chef-with-thumb-up-white-background_1368-2842.jpg?w=740&t=st=1689240406~exp=1689241006~hmac=595692e56429cb7cd520ed39089b17faff40114babe54a8045ed5e9706cb4b8a",
         "experience": "8 years",
-        "number": 2
+        "number": 4,
+        "bio": "Chef John Smith is a seasoned culinary artist with over 15 years of experience. With a passion for creating exceptional flavors and unforgettable dining experiences, Chef John has honed his skills in renowned kitchens worldwide. His innovative approach to cuisine merges traditional techniques with contemporary influences, resulting in visually stunning and delectable dishes. Chef John's commitment to sourcing the finest local ingredients ensures the highest quality in every plate. Having worked in Michelin-starred establishments and collaborated with international culinary experts, Chef John possesses a diverse range of culinary expertise, from classical French to cutting-edge fusion. His relentless pursuit of culinary excellence has made him a master in his craft, delivering extraordinary culinary journeys to every guest fortunate enough to savor his creations.",
+        "recipe": [
+            {
+                "name": "Lemon Garlic Shrimp Pasta",
+                "ingredients": [
+                    "Shrimp",
+                    "Pasta",
+                    "Garlic",
+                    "Lemon juice",
+                    "Butter",
+                    "Olive oil",
+                    "Salt",
+                    "Pepper",
+                    "Parsley"
+                ],
+                "method": "Cook pasta, sauté shrimp with garlic in olive oil and butter, add lemon juice, toss with cooked pasta, season with salt, pepper, and parsley.",
+                "rating": 4.9
+            },
+            {
+                "name": "Caprese Salad",
+                "ingredients": [
+                    "Tomatoes",
+                    "Mozzarella cheese",
+                    "Basil leaves",
+                    "Balsamic glaze",
+                    "Olive oil",
+                    "Salt",
+                    "Pepper"
+                ],
+                "method": "Slice tomatoes and mozzarella, layer them with basil leaves, drizzle with olive oil and balsamic glaze, season with salt and pepper.",
+                "rating": 4.5
+            },
+            {
+                "name": "Chicken Stir-Fry",
+                "ingredients": [
+                    "Chicken breast",
+                    "Bell peppers",
+                    "Broccoli",
+                    "Soy sauce",
+                    "Garlic",
+                    "Ginger",
+                    "Sesame oil",
+                    "Cornstarch",
+                    "Vegetable oil"
+                ],
+                "method": "Sauté chicken with garlic and ginger, add vegetables, stir-fry until tender-crisp, mix soy sauce, sesame oil, and cornstarch, pour over the chicken and veggies, cook until the sauce thickens.",
+                "rating": 3.5
+            }
+        ]
     },
     {
         "chef_name": "Michael Davis",
         "unique_id": "345678",
         "photo_url": "https://img.freepik.com/free-photo/chef-with-thumb-up-white-background_1368-2842.jpg?w=740&t=st=1689240406~exp=1689241006~hmac=595692e56429cb7cd520ed39089b17faff40114babe54a8045ed5e9706cb4b8a",
         "experience": "12 years",
-        "number": 3
+        "number": 3,
+        "bio": "Chef John Smith is a seasoned culinary artist with over 15 years of experience. With a passion for creating exceptional flavors and unforgettable dining experiences, Chef John has honed his skills in renowned kitchens worldwide. His innovative approach to cuisine merges traditional techniques with contemporary influences, resulting in visually stunning and delectable dishes. Chef John's commitment to sourcing the finest local ingredients ensures the highest quality in every plate. Having worked in Michelin-starred establishments and collaborated with international culinary experts, Chef John possesses a diverse range of culinary expertise, from classical French to cutting-edge fusion. His relentless pursuit of culinary excellence has made him a master in his craft, delivering extraordinary culinary journeys to every guest fortunate enough to savor his creations.",
+        "recipe": [
+            {
+                "name": "Lemon Garlic Shrimp Pasta",
+                "ingredients": [
+                    "Shrimp",
+                    "Pasta",
+                    "Garlic",
+                    "Lemon juice",
+                    "Butter",
+                    "Olive oil",
+                    "Salt",
+                    "Pepper",
+                    "Parsley"
+                ],
+                "method": "Cook pasta, sauté shrimp with garlic in olive oil and butter, add lemon juice, toss with cooked pasta, season with salt, pepper, and parsley.",
+                "rating": 3.8
+            },
+            {
+                "name": "Caprese Salad",
+                "ingredients": [
+                    "Tomatoes",
+                    "Mozzarella cheese",
+                    "Basil leaves",
+                    "Balsamic glaze",
+                    "Olive oil",
+                    "Salt",
+                    "Pepper"
+                ],
+                "method": "Slice tomatoes and mozzarella, layer them with basil leaves, drizzle with olive oil and balsamic glaze, season with salt and pepper.",
+                "rating": 4.4
+            },
+            {
+                "name": "Chicken Stir-Fry",
+                "ingredients": [
+                    "Chicken breast",
+                    "Bell peppers",
+                    "Broccoli",
+                    "Soy sauce",
+                    "Garlic",
+                    "Ginger",
+                    "Sesame oil",
+                    "Cornstarch",
+                    "Vegetable oil"
+                ],
+                "method": "Sauté chicken with garlic and ginger, add vegetables, stir-fry until tender-crisp, mix soy sauce, sesame oil, and cornstarch, pour over the chicken and veggies, cook until the sauce thickens.",
+                "rating": 3.4
+            }
+        ]
     },
     {
         "chef_name": "Sarah Wilson",
         "unique_id": "456789",
         "photo_url": "https://img.freepik.com/free-photo/chef-with-thumb-up-white-background_1368-2842.jpg?w=740&t=st=1689240406~exp=1689241006~hmac=595692e56429cb7cd520ed39089b17faff40114babe54a8045ed5e9706cb4b8a",
         "experience": "6 years",
-        "number": 4
+        "number": 4,
+        "bio": "Chef John Smith is a seasoned culinary artist with over 15 years of experience. With a passion for creating exceptional flavors and unforgettable dining experiences, Chef John has honed his skills in renowned kitchens worldwide. His innovative approach to cuisine merges traditional techniques with contemporary influences, resulting in visually stunning and delectable dishes. Chef John's commitment to sourcing the finest local ingredients ensures the highest quality in every plate. Having worked in Michelin-starred establishments and collaborated with international culinary experts, Chef John possesses a diverse range of culinary expertise, from classical French to cutting-edge fusion. His relentless pursuit of culinary excellence has made him a master in his craft, delivering extraordinary culinary journeys to every guest fortunate enough to savor his creations.",
+        "recipe": [
+            {
+                "name": "Lemon Garlic Shrimp Pasta",
+                "ingredients": [
+                    "Shrimp",
+                    "Pasta",
+                    "Garlic",
+                    "Lemon juice",
+                    "Butter",
+                    "Olive oil",
+                    "Salt",
+                    "Pepper",
+                    "Parsley"
+                ],
+                "method": "Cook pasta, sauté shrimp with garlic in olive oil and butter, add lemon juice, toss with cooked pasta, season with salt, pepper, and parsley.",
+                "rating": 5
+            },
+            {
+                "name": "Caprese Salad",
+                "ingredients": [
+                    "Tomatoes",
+                    "Mozzarella cheese",
+                    "Basil leaves",
+                    "Balsamic glaze",
+                    "Olive oil",
+                    "Salt",
+                    "Pepper"
+                ],
+                "method": "Slice tomatoes and mozzarella, layer them with basil leaves, drizzle with olive oil and balsamic glaze, season with salt and pepper.",
+                "rating": 4.3
+            },
+            {
+                "name": "Chicken Stir-Fry",
+                "ingredients": [
+                    "Chicken breast",
+                    "Bell peppers",
+                    "Broccoli",
+                    "Soy sauce",
+                    "Garlic",
+                    "Ginger",
+                    "Sesame oil",
+                    "Cornstarch",
+                    "Vegetable oil"
+                ],
+                "method": "Sauté chicken with garlic and ginger, add vegetables, stir-fry until tender-crisp, mix soy sauce, sesame oil, and cornstarch, pour over the chicken and veggies, cook until the sauce thickens.",
+                "rating": 3.3
+            }
+        ]
     },
     {
         "chef_name": "David Thompson",
         "unique_id": "567890",
         "photo_url": "https://img.freepik.com/free-photo/chef-with-thumb-up-white-background_1368-2842.jpg?w=740&t=st=1689240406~exp=1689241006~hmac=595692e56429cb7cd520ed39089b17faff40114babe54a8045ed5e9706cb4b8a",
         "experience": "15 years",
-        "number": 5
+        "number": 3,
+        "bio": "Chef John Smith is a seasoned culinary artist with over 15 years of experience. With a passion for creating exceptional flavors and unforgettable dining experiences, Chef John has honed his skills in renowned kitchens worldwide. His innovative approach to cuisine merges traditional techniques with contemporary influences, resulting in visually stunning and delectable dishes. Chef John's commitment to sourcing the finest local ingredients ensures the highest quality in every plate. Having worked in Michelin-starred establishments and collaborated with international culinary experts, Chef John possesses a diverse range of culinary expertise, from classical French to cutting-edge fusion. His relentless pursuit of culinary excellence has made him a master in his craft, delivering extraordinary culinary journeys to every guest fortunate enough to savor his creations.",
+        "recipe": [
+            {
+                "name": "Lemon Garlic Shrimp Pasta",
+                "ingredients": [
+                    "Shrimp",
+                    "Pasta",
+                    "Garlic",
+                    "Lemon juice",
+                    "Butter",
+                    "Olive oil",
+                    "Salt",
+                    "Pepper",
+                    "Parsley"
+                ],
+                "method": "Cook pasta, sauté shrimp with garlic in olive oil and butter, add lemon juice, toss with cooked pasta, season with salt, pepper, and parsley.",
+                "rating": 4.7
+            },
+            {
+                "name": "Caprese Salad",
+                "ingredients": [
+                    "Tomatoes",
+                    "Mozzarella cheese",
+                    "Basil leaves",
+                    "Balsamic glaze",
+                    "Olive oil",
+                    "Salt",
+                    "Pepper"
+                ],
+                "method": "Slice tomatoes and mozzarella, layer them with basil leaves, drizzle with olive oil and balsamic glaze, season with salt and pepper.",
+                "rating": 4.2
+            },
+            {
+                "name": "Chicken Stir-Fry",
+                "ingredients": [
+                    "Chicken breast",
+                    "Bell peppers",
+                    "Broccoli",
+                    "Soy sauce",
+                    "Garlic",
+                    "Ginger",
+                    "Sesame oil",
+                    "Cornstarch",
+                    "Vegetable oil"
+                ],
+                "method": "Sauté chicken with garlic and ginger, add vegetables, stir-fry until tender-crisp, mix soy sauce, sesame oil, and cornstarch, pour over the chicken and veggies, cook until the sauce thickens.",
+                "rating": 3.2
+            }
+        ]
     },
     {
         "chef_name": "Olivia Anderson",
         "unique_id": "678901",
         "photo_url": "https://img.freepik.com/free-photo/chef-with-thumb-up-white-background_1368-2842.jpg?w=740&t=st=1689240406~exp=1689241006~hmac=595692e56429cb7cd520ed39089b17faff40114babe54a8045ed5e9706cb4b8a",
         "experience": "9 years",
-        "number": 6
+        "number": 3,
+        "bio": "Chef John Smith is a seasoned culinary artist with over 15 years of experience. With a passion for creating exceptional flavors and unforgettable dining experiences, Chef John has honed his skills in renowned kitchens worldwide. His innovative approach to cuisine merges traditional techniques with contemporary influences, resulting in visually stunning and delectable dishes. Chef John's commitment to sourcing the finest local ingredients ensures the highest quality in every plate. Having worked in Michelin-starred establishments and collaborated with international culinary experts, Chef John possesses a diverse range of culinary expertise, from classical French to cutting-edge fusion. His relentless pursuit of culinary excellence has made him a master in his craft, delivering extraordinary culinary journeys to every guest fortunate enough to savor his creations.",
+        "recipe": [
+            {
+                "name": "Lemon Garlic Shrimp Pasta",
+                "ingredients": [
+                    "Shrimp",
+                    "Pasta",
+                    "Garlic",
+                    "Lemon juice",
+                    "Butter",
+                    "Olive oil",
+                    "Salt",
+                    "Pepper",
+                    "Parsley"
+                ],
+                "method": "Cook pasta, sauté shrimp with garlic in olive oil and butter, add lemon juice, toss with cooked pasta, season with salt, pepper, and parsley.",
+                "rating": 3.7
+            },
+            {
+                "name": "Caprese Salad",
+                "ingredients": [
+                    "Tomatoes",
+                    "Mozzarella cheese",
+                    "Basil leaves",
+                    "Balsamic glaze",
+                    "Olive oil",
+                    "Salt",
+                    "Pepper"
+                ],
+                "method": "Slice tomatoes and mozzarella, layer them with basil leaves, drizzle with olive oil and balsamic glaze, season with salt and pepper.",
+                "rating": 4.1
+            },
+            {
+                "name": "Chicken Stir-Fry",
+                "ingredients": [
+                    "Chicken breast",
+                    "Bell peppers",
+                    "Broccoli",
+                    "Soy sauce",
+                    "Garlic",
+                    "Ginger",
+                    "Sesame oil",
+                    "Cornstarch",
+                    "Vegetable oil"
+                ],
+                "method": "Sauté chicken with garlic and ginger, add vegetables, stir-fry until tender-crisp, mix soy sauce, sesame oil, and cornstarch, pour over the chicken and veggies, cook until the sauce thickens.",
+                "rating": 3.1
+            }
+        ]
     }
 ]
